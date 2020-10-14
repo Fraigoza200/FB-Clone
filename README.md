@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![fb-login-page](https://user-images.githubusercontent.com/52722189/96052164-ce2a5800-0e31-11eb-99bf-4e778ddc40ec.png)
 
 
-##Create Posts and Upload Images
+## Create Posts and Upload Images
 ![fb-page-post (1)](https://user-images.githubusercontent.com/52722189/96052298-177aa780-0e32-11eb-8965-51866973c397.png)
 
-##Images get stored to MongoDB 
+## Images stored into to MongoDB 
 ![MongoDB](https://user-images.githubusercontent.com/52722189/96052324-22cdd300-0e32-11eb-865e-fbbfaa240c2b.png)
 
 ### Description
