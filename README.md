@@ -4,6 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![fb-login-page](https://user-images.githubusercontent.com/52722189/96052164-ce2a5800-0e31-11eb-99bf-4e778ddc40ec.png)
 
 
+##Create Posts and Upload Images
+![fb-page-post (1)](https://user-images.githubusercontent.com/52722189/96052298-177aa780-0e32-11eb-8965-51866973c397.png)
+
+##Images get stored to MongoDB 
+![MongoDB](https://user-images.githubusercontent.com/52722189/96052324-22cdd300-0e32-11eb-865e-fbbfaa240c2b.png)
+
+### Description
+Using in demand technologies this FaceBook-Clone allows users to safely login using Firebase Authentication along with being able to post images and their thoughts on their page. The images that are selected are stored in MongoDB. The data that was inputted is then displayed in real-time by utitlizing Pusher which allows MongoDB to be a real-time Database. 
+
+
+
 
 
 ## Available Scripts
